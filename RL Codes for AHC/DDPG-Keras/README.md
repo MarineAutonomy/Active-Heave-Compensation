@@ -1,4 +1,18 @@
-This repository contains the implementation of RL based control for Active Heave Compensation using DDPG algorithm.
+
+This repository contains the codes from the article "Deep Reinforcement Learning Based Controller for Active Heave Compensation".
+
+Controllers Compared
+
+1. PD Controller
+2. DDPG Algorithm
+
+
+No disturbance and no measurement noise
+With offset
+With disturbance but no measurement noise
+With measurement noise but no disturbance
+
+
 
 Steps
 
@@ -17,3 +31,4 @@ Steps
 4. Once installed open ddpg_winch and run in order to train the agent.
 
 5. Run test_ddpg for testing the RL agent (make sure that the trained weights of the actor and critic network are loaded before testing the RL agent).
+
