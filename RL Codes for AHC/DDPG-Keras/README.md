@@ -6,11 +6,12 @@ Controllers Compared
 1. PD Controller
 2. DDPG Algorithm
 
+Cases 
 
-No disturbance and no measurement noise
-With offset
-With disturbance but no measurement noise
-With measurement noise but no disturbance
+1. No disturbance and no measurement noise
+2. With offset
+3. With disturbance but no measurement noise
+4. With measurement noise but no disturbance
 
 
 
