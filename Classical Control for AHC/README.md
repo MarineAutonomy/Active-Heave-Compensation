@@ -11,5 +11,6 @@ Controllers Implemented
 Cases Analysed
 
 1. No disturbance and no measurement noise
-2. With disturbance but no measurement noise
-3. With measurement noise but no disturbance
+2. Offset Tracking
+3. With disturbance but no measurement noise
+4. With measurement noise but no disturbance
