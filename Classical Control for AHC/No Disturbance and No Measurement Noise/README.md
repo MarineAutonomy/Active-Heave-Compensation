@@ -1,4 +1,6 @@
-First load the required mat files and then run the simulink file
+Steps to run the code
+
+First load the required "mat" format files and then run the Simulink file
 
 Files
 
