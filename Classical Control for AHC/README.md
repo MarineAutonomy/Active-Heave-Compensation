@@ -11,6 +11,7 @@ Controllers Implemented
 Cases Analysed
 
 1. No disturbance and no measurement noise
-2. Offset Tracking
-3. With disturbance but no measurement noise
-4. With measurement noise but no disturbance
+2. Ability to handle saturation of the swash angle
+3. Offset Tracking
+4. With disturbance but no measurement noise
+5. With measurement noise but no disturbance [High Noise and Low Noise]
