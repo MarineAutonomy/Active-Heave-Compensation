@@ -1,21 +1,20 @@
 
-This repository contains the codes from the article "Deep Reinforcement Learning Based Controller for Active Heave Compensation".
+This repository contains the codes for the article "Deep Reinforcement Learning Based Controller for Active Heave Compensation".
 
 Controllers Compared
 
 1. PD Controller
-2. DDPG Algorithm
+2. Reinforcement Learning based control (DDPG Algorithm)
 
-Cases 
+Cases Analysed
 
 1. No disturbance and no measurement noise
-2. With offset
+2. Offset Tracking
 3. With disturbance but no measurement noise
-4. With measurement noise but no disturbance
+4. With measurement noise but no disturbance [High noise and Low noise]
 
 
-
-Steps
+Steps to run the code
 
 1. Install all the packages from the requirements.txt file.
 
