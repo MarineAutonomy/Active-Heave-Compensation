@@ -1,5 +1,5 @@
 
-This repository contains the codes from the article  "A comparative study of different control strategies for active heave compensation".
+This repository contains the codes for the article  "A comparative study of different control strategies for active heave compensation".
 
 Controllers Implemented
 
